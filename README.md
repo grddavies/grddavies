@@ -11,11 +11,11 @@
 <h3>GitHub Stats</h3>
 
 <table>
-    <tr width="100%">
-        <td width="490" align="center">
+    <tr>
+        <td width="398" align="center">
             <img height=auto alt="Top Langs" src="https://raw.githubusercontent.com/grddavies/github-stats-transparent/output/generated/languages.svg"></img>
         </td>
-        <td width="490" align="center">
+        <td width="398" align="center">
             <img height=auto src="https://raw.githubusercontent.com/grddavies/github-stats-transparent/output/generated/overview.svg" alt="grddavies' github stats"></img>
         </td>
     </tr>
@@ -131,7 +131,9 @@
     </td>
   </tr>
 </table>
-<h3>... and technologies I'm interested in using more<h3>
+
+<h3>...and technologies I'm interested in using more<h3>
+
 <!-- links -->
 
 [arcadis gen]: https://ArcadisGen.com "Arcadis Gen Home"
