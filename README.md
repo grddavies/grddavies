@@ -12,10 +12,10 @@
 
 <table>
     <tr>
-        <td width="398" align="center">
+        <td width="384" align="center">
             <img height=auto alt="Top Langs" src="https://raw.githubusercontent.com/grddavies/github-stats-transparent/output/generated/languages.svg"></img>
         </td>
-        <td width="398" align="center">
+        <td width="384" align="center">
             <img height=auto src="https://raw.githubusercontent.com/grddavies/github-stats-transparent/output/generated/overview.svg" alt="grddavies' github stats"></img>
         </td>
     </tr>
