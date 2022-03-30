@@ -5,7 +5,7 @@
 - :office: &nbsp;I'm currently working at **[Arcadis Gen]**
 - :seedling: &nbsp;I'm growing our software solutions suite
 - :hatching_chick: &nbsp;I’m learning **Rust** :crab:, **Haskell** :purple_heart: and **WebAssembly** :gear:	
-- :speech_balloon: &nbsp;I like talking about functional programming, time-series analysic, music and other wiggly lines :chart_with_upwards_trend:
+- :speech_balloon: &nbsp;I like talking about functional programming, time-series analysis, music and other wiggly lines :chart_with_upwards_trend:
 
 
 <h3>GitHub Stats</h3>
