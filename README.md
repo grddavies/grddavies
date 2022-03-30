@@ -7,20 +7,20 @@
 - :hatching_chick: &nbsp;I’m currently learning **Rust** :crab:, **Haskell** :purple_heart: and **WASM** :spider_web:
 - :speech_balloon: &nbsp;I like talking about functional programming, time-series analysis and music
 
-<br>
+<h3>GitHub Stats</h3>
 
 <table>
     <tr width="100%">
-        <td align="left">
+        <td width="490" align="center">
             <img height=auto alt="Top Langs" src="https://raw.githubusercontent.com/grddavies/github-stats-transparent/output/generated/languages.svg"></img>
         </td>
-        <td align="right">
+        <td width="490" align="center">
             <img height=auto src="https://raw.githubusercontent.com/grddavies/github-stats-transparent/output/generated/overview.svg" alt="grddavies' github stats"></img>
         </td>
     </tr>
 </table>
 
-<h3>Technologies I work with</h3>
+<h3>Technologies I work with...</h3>
 
 <table>
   <tr>
@@ -79,11 +79,6 @@
       <br>Git
     </td>
   </tr>
-</table>
-
-<h3>Technologies I'm interested in using more<h3>
-
-<table>
   <tr>
     <td align="center" width="96">
       <a href="#tech-2">
@@ -135,7 +130,7 @@
     </td>
   </tr>
 </table>
-
+<h3>... and technologies I'm interested in using more<h3>
 <!-- links -->
 
 [arcadis gen]: https://ArcadisGen.com "Arcadis Gen Home"
