@@ -26,13 +26,13 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#tech-1">
+      <a href="https://github.com/grddavies/c4zero">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#tech-1">
+      <a href="https://github.com/grddavies/rtern">
         <img src="./img/r.svg" width="48" height="48" alt="R" />
       </a>
       <br>&nbsp;&nbsp;R&nbsp;&nbsp;
@@ -50,13 +50,13 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <a href="#tech-1">
+      <a href="https://github.com/grddavies/shinycalculator">
         <img src="./img/rshiny.png" width="auto" height="60" alt="RShiny" />
       </a>
       <br>RShiny
     </td>
     <td align="center" width="96">
-      <a href="#tech-1">
+      <a href="https://github.com/grddavies/dingbats">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
@@ -82,13 +82,13 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#tech-2">
+      <a href="https://github.com/grddavies/c4zero">
         <img src="./img/pytorch.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>PyTorch
     </td>
     <td align="center"  width="96">
-      <a href="#tech-2">
+      <a href="https://github.com/grddavies/moji">
         <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
       </a>
       <br>Rust
@@ -100,19 +100,19 @@
       <br>WASM
     </td>
     <td align="center"  width="96">
-      <a href="#tech-2">
+      <a href="https://github.com/grddavies/euler">
         <img src="./img/haskell.svg" width="48" height="48" alt="Haskell" />
       </a>
       <br>Haskell
     </td>
     <td align="center" width="96">
-      <a href="#tech-2">
+      <a href="https://github.com/grddavies/xo-solid">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#tech-2" >
+      <a href="https://github.com/grddavies/connect-4-solid" >
         <img src="./img/solidjs.svg" width="48" height="48" alt="Solid JS" />
       </a>
       <br>Solid JS
@@ -124,7 +124,7 @@
       <br>Kubernetes
     </td>
     <td align="center"  width="96">
-      <a href="#tech-2">
+      <a href="https://www.instagram.com/reel/CYUSfDZq1Wt/">
         <img src="./img/abletonlive.svg" width="48" height="48" alt="Ableton Live" />
       </a>
       <br>Ableton Live
