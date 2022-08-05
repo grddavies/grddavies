@@ -1,14 +1,15 @@
-# :wave: Hi there, I'm Gethin
+# Ey up, I'm Gethin
 
-### _Full-Stack_ Data Scientist & Developer
+## Software // Data // Solutions
 
-- :office: &nbsp;I'm currently working at **[Arcadis Gen]**
-- :seedling: &nbsp;I'm growing our software solutions suite
-- :hatching_chick: &nbsp;I’m learning **Rust** :crab: and **Haskell** :purple_heart:
-- :art: &nbsp;I occasionally make generative art [(have a look here)](#generative-art) and music
-- :book: &nbsp;I'm reading _Modern Nature_ by Derek Jarman
-- :parrot: &nbsp;Hablo un poco de Español, e também falo Português... mas não muito.
-- :speech_balloon: &nbsp;I like talking about (but claim no expertise in) programming language theory, time-series, music and other wiggly lines :chart_with_upwards_trend:
+### About me
+
+- 🏢&nbsp;I'm currently working on medical imaging software at **[Motilent]**
+- 🐣&nbsp;I’m learning **Rust** 🦀 and **Haskell** 💜 when I have the time
+- 🎨&nbsp;I occasionally make generative art [(have a look here)](#generative-art) and music
+- 📖&nbsp;I'm reading _Modern Nature_ by Derek Jarman
+- 🦜&nbsp;Hablo un poco de Español, e também falo Português... mas não muito.
+- 💬&nbsp;I like talking about (but claim no expertise in) programming language theory, time-series, music and other wiggly lines 📈
 
 ### GitHub Stats
 
@@ -19,72 +20,60 @@
     </div>
 </figure>
 
-### Technologies I work with...
+### Technologies I find useful or am interested by...
 
 <table>
   <tr>
     <td align="center" width="96">
+      <a href="#tech-1">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Visual Studio Code Icon" />
+      </a>
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/grddavies/dotfiles/tree/main/home/dot_config/nvim">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="48" height="48" alt="NeoVim Logo" />
+      </a>
+      <br>NeoVim
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/grddavies/xo-solid">
+        <img src="img/icons/typescript-original.svg" width="48" height="48" alt="TypeScript Logo" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-2" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React Logo" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
       <a href="https://github.com/grddavies/c4zero">
-        <img src="img/icons/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="img/icons/python-original.svg" width="48" height="48" alt="Python Logo" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="https://github.com/grddavies/rtern">
-        <img src="img/icons/r.svg" width="48" height="48" alt="R" />
+        <img src="img/icons/r.svg" width="48" height="48" alt="R Logo" />
       </a>
       <br>&nbsp;&nbsp;R&nbsp;&nbsp;
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-1">
-        <img src="img/icons/orLogo.png" width="48" height="48" alt="Google OR-Tools" />
-      </a>
-      <br>Google OR-Tools
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-1" >
-        <img src="img/icons/PostgreSQL_logo.3colors.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/grddavies/shinycalculator">
-        <img src="img/icons/rshiny.png" width="auto" height="60" alt="RShiny" />
-      </a>
-      <br>RShiny
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/grddavies/dingbats">
-        <img src="img/icons/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <!-- <td align="center" width="96">
-      <a href="#tech-1">
-        <img src="./img/icons/bootstrap-5-1.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td> -->
+    </td>  
     <td align="center" width="96"> 
       <a href="#tech-1" >
-        <img src="img/icons/docker-mono.svg" width="48" height="48" alt="Docker" />
+        <img src="img/icons/docker-mono.svg" width="48" height="48" alt="Docker Logo" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#tech-1">
-        <img src="img/icons/git-icon.svg" width="48" height="48" alt="Git" />
+        <img src="img/icons/git-icon.svg" width="48" height="48" alt="Git Logo" />
       </a>
       <br>Git
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/grddavies/c4zero">
-        <img src="img/icons/pytorch.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>PyTorch
-    </td>
     <td align="center"  width="96">
       <a href="https://github.com/grddavies/moji">
         <img src="img/icons/rust.svg" width="48" height="48" alt="Rust" />
@@ -104,22 +93,28 @@
       <br>Haskell
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/grddavies/xo-solid">
-        <img src="img/icons/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
       <a href="https://github.com/grddavies/connect-4-solid" >
         <img src="img/icons/solidjs.svg" width="48" height="48" alt="Solid JS" />
       </a>
       <br>Solid JS
     </td>
     <td align="center" width="96">
-      <a href="#tech-2" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="https://github.com/grddavies/c4zero">
+        <img src="img/icons/pytorch.svg" width="48" height="48" alt="Pytorch Logo" />
       </a>
-      <br>Kubernetes
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/grddavies/shinycalculator">
+        <img src="img/icons/rshiny.png" width="60" height="60" alt="Shiny" />
+      </a>
+      <br>Shiny
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-1" >
+        <img src="img/icons/PostgreSQL_logo.3colors.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
     </td>
     <td align="center"  width="96">
       <a href="https://www.instagram.com/reel/CYUSfDZq1Wt/">
@@ -130,14 +125,12 @@
   </tr>
 </table>
 
-### ...and technologies I'm interested in using more
-
 #### Generative Art
- 
-<details>
-  <summary> 
 
-  CW // _Unreality_
+<details>
+  <summary>
+
+CW // _Unreality_
 
   </summary>
 
@@ -170,5 +163,5 @@
 
 <!-- links -->
 
-[arcadis gen]: https://ArcadisGen.com "Arcadis Gen Home"
+[motilent]: https://www.motilent.co.uk/ "Motilent Homepage"
 [linkedin]: https://www.linkedin.com/in/grddavies "Gethin Davies LinkedIn"
