@@ -1,6 +1,4 @@
-# Ey up, I'm Gethin
-
-## Software // Data // Solutions
+# Ey up (hello), I'm Gethin
 
 ### About me
 
@@ -9,7 +7,7 @@
 - 🎨&nbsp;I occasionally make generative art [(have a look here)](#generative-art) and music
 - 📖&nbsp;I'm reading _Modern Nature_ by Derek Jarman
 - 🦜&nbsp;Hablo un poco de Español, e também falo Português... mas não muito.
-- 💬&nbsp;I like talking about (but claim no expertise in) programming language theory, time-series, music and other wiggly lines 📈
+- 💬&nbsp;I like talking about (but claim no expertise in) programming language theory, time-series, synthesizers, music and other wiggly lines 📈
 
 ### GitHub Stats
 
