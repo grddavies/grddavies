@@ -2,10 +2,10 @@
 
 ### About me
 
-- 🏢&nbsp;I'm currently working on medical imaging software at **[Motilent]**
+- 🏢&nbsp;I'm currently working on a browser-based DICOM viewer at **[Motilent]**
 - 🐣&nbsp;I’m learning **Rust** 🦀 and **Haskell** 💜 when I have the time
 - 🎨&nbsp;I occasionally make generative art [(have a look here)](#generative-art) and music
-- 📖&nbsp;I'm reading _Modern Nature_ by Derek Jarman
+- 📖&nbsp;I'm reading _The Book of Trespass_ by Nick Hayes
 - 🦜&nbsp;Hablo un poco de Español, e também falo Português... mas não muito.
 - 💬&nbsp;I like talking about (but claim no expertise in) programming language theory, time-series, synthesizers, music and other wiggly lines 📈
 
@@ -58,18 +58,6 @@
       </a>
       <br>&nbsp;&nbsp;R&nbsp;&nbsp;
     </td>  
-    <td align="center" width="96"> 
-      <a href="#tech-1" >
-        <img src="img/icons/docker-mono.svg" width="48" height="48" alt="Docker Logo" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-1">
-        <img src="img/icons/git-icon.svg" width="48" height="48" alt="Git Logo" />
-      </a>
-      <br>Git
-    </td>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -101,18 +89,6 @@
         <img src="img/icons/pytorch.svg" width="48" height="48" alt="Pytorch Logo" />
       </a>
       <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/grddavies/shinycalculator">
-        <img src="img/icons/rshiny.png" width="60" height="60" alt="Shiny" />
-      </a>
-      <br>Shiny
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-1" >
-        <img src="img/icons/PostgreSQL_logo.3colors.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
     </td>
     <td align="center"  width="96">
       <a href="https://www.instagram.com/reel/CYUSfDZq1Wt/">
