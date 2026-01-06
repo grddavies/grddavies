@@ -2,12 +2,11 @@
 
 ### About me
 
-- 🏢&nbsp;I'm currently working on a browser-based DICOM viewer at **[Motilent]**
+- 🏢&nbsp;I'm working in the Engineering team at **[Resident Advisor]**
 - 🐣&nbsp;I’m learning **Rust** 🦀 and **Haskell** 💜 when I have the time
 - 🎨&nbsp;I occasionally make generative art [(have a look here)](#generative-art) and music
-- 📖&nbsp;I'm reading _The Book of Trespass_ by Nick Hayes
-- 🦜&nbsp;Hablo un poco de Español, e também falo Português... mas não muito.
-- 💬&nbsp;I like talking about (but claim no expertise in) programming language theory, time-series, synthesizers, music and other wiggly lines 📈
+- 📖&nbsp;I'm reading _Party Lines: Dance Music and the Making of Modern Britain_ by Ed Gillett
+- 💬&nbsp;I like talking about (but claim no expertise in) programming languages, synthesizers, music, time-series and other wiggly lines 📈
 
 ### GitHub Stats
 
@@ -137,5 +136,5 @@ CW // _Unreality_
 
 <!-- links -->
 
-[motilent]: https://www.motilent.co.uk/ "Motilent Homepage"
+[resident advisor]: https://www.ra.co "RA Homepage"
 [linkedin]: https://www.linkedin.com/in/grddavies "Gethin Davies LinkedIn"
